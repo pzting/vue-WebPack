@@ -5,7 +5,7 @@
     export default {
         data(){
             return {
-                text: 'hello world 这是vue1.0'
+                text: 'hello world 这是vue1.0 推送到远程分支'
             }
         }
     }
