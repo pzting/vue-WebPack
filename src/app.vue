@@ -5,7 +5,7 @@
     export default {
         data(){
             return {
-                text: 'hello world'
+                text: 'hello world 这是vue1.0'
             }
         }
     }
